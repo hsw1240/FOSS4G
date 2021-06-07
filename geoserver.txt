@@ -9,5 +9,4 @@ There is much more to GeoServer than nicely styled maps. GeoServer conforms to t
 GeoServer is a modular application with additional functionality added via extensions. An extensions for Web Processing Service open up a wealth of processing options, you can even write your own!
 Enable others to incorporate your data into their websites and applications, freeing your data and permitting greater transparency.
 
-Use Free and Open Source Software
-GeoServer is free software. This significantly lowers the financial barrier to entry when compared to proprietary GIS products. In addition, not only is GeoServer available free of charge, it is also open source. Bug fixes and feature improvements in open source software occur in a transparent manner, often at an accelerated pace compared to closed software solutions. Leveraging GeoServer in your organization also prevents software lock-in, saving costly support contracts down the road.
+aa
